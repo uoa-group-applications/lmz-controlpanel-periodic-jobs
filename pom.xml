@@ -12,7 +12,7 @@
 	<packaging>jar</packaging>
 
 	<name>periodic-jobs-controlpanel</name>
-	<version>3.1</version>
+	<version>3.2-SNAPSHOT</version>
 
 	<description>
 		Displays information about current jobs
@@ -50,8 +50,4 @@
 			<version>[2.4,3)</version>
 		</dependency>
 	</dependencies>
-
-  <scm>
-    <tag>periodic-jobs-controlpanel-3.1</tag>
-  </scm>
 </project>
