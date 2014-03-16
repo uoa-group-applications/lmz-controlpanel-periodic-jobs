@@ -11,7 +11,7 @@
 	<artifactId>periodic-jobs-controlpanel</artifactId>
 	<packaging>jar</packaging>
 
-	<name>LMZ - Periodic Jobs Info Panel</name>
+	<name>periodic-jobs-controlpanel</name>
 	<version>3.1-SNAPSHOT</version>
 
 	<description>
@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>nz.ac.auckland.lmz</groupId>
 			<artifactId>lmz-controlpanel</artifactId>
-			<version>[3,4)</version>
+			<version>[3.1,4)</version>
 		</dependency>
 
 		<dependency>
