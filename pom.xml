@@ -48,6 +48,7 @@
 			<groupId>nz.ac.auckland.composite</groupId>
 			<artifactId>composite-unittest</artifactId>
 			<version>[2.4,3)</version>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
 </project>
