@@ -10,7 +10,7 @@
 	<artifactId>periodic-jobs-controlpanel</artifactId>
 	<packaging>jar</packaging>
 	<name>periodic-jobs-controlpanel</name>
-	<version>3.3</version>
+	<version>3.4-SNAPSHOT</version>
 	<description>
 		Displays information about current jobs
 	</description>
@@ -50,8 +50,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-  <scm>
-    <tag>periodic-jobs-controlpanel-3.3</tag>
-  </scm>
 </project>
